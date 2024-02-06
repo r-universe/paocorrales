@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/paocorrales/paocorrales.r-universe.dev
 	branch = HEAD
+[submodule "SISINTAR"]
+	path = SISINTAR
+	url = https://github.com/INTA-Suelos/SISINTAR
+[submodule "agroclimatico"]
+	path = agroclimatico
+	url = https://github.com/AgRoMeteorologiaINTA/agroclimatico
+[submodule "mesoda"]
+	path = mesoda
+	url = https://github.com/paocorrales/mesoda
+[submodule "rvad"]
+	path = rvad
+	url = https://github.com/paocorrales/rvad
